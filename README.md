@@ -5,6 +5,6 @@
 ### by Dietrich, Lee, Popiel (2023)
 ### https://arxiv.org/abs/2304.14646
 ###
-### Code relies in Python package mmgroup by Martin Seysen
+### Code relies on the Python package mmgroup by Martin Seysen
 ### https://github.com/Martin-Seysen/mmgroup
 ###
