@@ -2,7 +2,7 @@
 ####################################################################################
 ###
 ### Python code accompanying the paper
-###    'Maximal subgroups of the Monster group'
+###    'The maximal subgroups of the Monster'
 ### by Dietrich, Lee, Popiel (2023)
 ###
 ### Code relies in Python package mmgroup by Martin Seysen
