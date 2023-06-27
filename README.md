@@ -1,7 +1,7 @@
 # M
 ###
 ### Python code accompanying the paper
-###    'PGL(2,13) is a maximal subgroup of the Monster'
+###    'The maximal subgroups of the Monster'
 ### by Dietrich, Lee, Popiel (2023)
 ### https://arxiv.org/abs/2304.14646
 ###
