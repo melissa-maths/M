@@ -1,6 +1,6 @@
 # M
 ###
-### Python code accompanying the papers
+## Python code accompanying the papers
 ###    'The maximal subgroups of the Monster'
 ### by Dietrich, Lee, Popiel (2023)
 ### https://arxiv.org/abs/2304.14646
