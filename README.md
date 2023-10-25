@@ -7,9 +7,10 @@
 ### https://arxiv.org/abs/2304.14646
 <br>
 
-### 'Indeed, the Monster has no almost simple maximal subgroups with socle PSL_2(16) or PSU_3(4)'
+### 'Indeed, the Monster has no almost simple maximal subgroup with socle PSL_2(16)'
 ### by Dietrich, Lee, Popiel (2023)
 ### https://arxiv.org/abs/2310.03317
+#### This latter file is currently being revised by the authors and a new version will appear shortly.
    
   <br>  
   <br>
