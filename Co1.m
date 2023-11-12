@@ -3,10 +3,10 @@ Supplementary Magma code for the paper
 "The maximal subgroups of the Monster"
 by H. Dietrich, M. Lee, and T. Popiel.
 
-Date: 8 November 2023
+Date: 13 November 2023
 
 This code shows that the matrices A and B described in Section 2.4 
-of the paper generate a subgroup of GL_2(4) isomorphic to Co1.
+of the paper generate a subgroup of GL_2(24) isomorphic to Co1.
 
 The final output should be:
 G
