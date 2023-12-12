@@ -12,4 +12,4 @@ The supplementary files Co1.m and L28.m are <a href="http://magma.maths.usyd.edu
 
 The supplementary file A5_in_A12_SLP.g is a  <a href="https://www.gap-system.org/">GAP</a> file.
 
-The file "other_gens" contains generators for some previously known maximal subgroups of the Monster.
+The file "other_gens" contains generators (in mmgroup format) for some previously known maximal subgroups of the Monster. It be updated from time to time.
