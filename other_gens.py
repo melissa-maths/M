@@ -7,7 +7,7 @@
 # 
 # Date: 12 December 2023
 # 
-# In our paper <a href="https://arxiv.org/abs/2304.14646">The maximal subgroups of the Monster</a>, we note that we have constructed (generators) for certain maximal subgroups of the Monster $\mathbf{M}$ that were not needed for our proofs, but that might be of independent interest. 
+# In our paper <a href="https://arxiv.org/abs/2304.14646">The maximal subgroups of the Monster</a>, we note that we have constructed (generators for) certain maximal subgroups of the Monster $\mathbf{M}$ that were not needed for our proofs, but that might be of independent interest. 
 # 
 # Here we provide those generators (in <a href="https://github.com/Martin-Seysen/mmgroup">mmgroup</a> format), with proofs that they generate the claimed maximal subgroups of $\mathbf{M}$.
 # 
@@ -181,7 +181,7 @@ ci_a[0] == 2 and (c3**ci_a[1]).in_G_x0() and (c3**ci_a[1]).chi_G_x0()[0] == -1
 a.order(), (a*b).order()
 
 
-# To check condition 2, note that every element of order $39$ in $\text{Th}$ powers to $\text{Th}$-class $3\text{A}$. The following element centralises $\langle c_2,c_3 \rangle$, has order $39$, and powers to $b$. Therefore, conditions 2 holds.
+# To check condition 2, note that every element of order $39$ in $\text{Th}$ powers to $\text{Th}$-class $3\text{A}$. The following element centralises $\langle c_2,c_3 \rangle$, has order $39$, and powers to $b$. Therefore, condition 2 holds.
 
 # In[16]:
 
