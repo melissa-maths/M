@@ -190,7 +190,7 @@ def group_generated_by(L, n, order_only=False):
             os = os+1;
              
     j = 0
-    while j <= os-1:
+    while j <= os:
         for g in L:
             el= orb[j]*g
             eltup = tuple(el.as_tuples())
